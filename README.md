@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nhlanhlankosi1
-- 👀 I’m interested in web and mobile development (Java, Kotlin, Swift, JavaScript rockstar)
+- 👀 I’m interested in web and mobile development (Java, Kotlin, Swift, JavaScript, Next Js rockstar)
 - 🌱 I’m currently learning A.R and V.R related technologies
 - 💞️ I’m looking to collaborate on AR projects on mobile devices (Using ARCore, ARKit and Sceneform)
 - 📫 How to reach me: DM on Twitter @nhlanhlankosi25
